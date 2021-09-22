@@ -1,0 +1,52 @@
+workbench.desktop.main.js:2872 [GitHub.vscode-pull-request-github]: `remoteHub/pullRequest` is not a valid menu identifier
+_logMessageInConsole @ workbench.desktop.main.js:2872
+workbench.desktop.main.js:71 [Extension Host] (node:13988) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.(Use `Code --trace-deprecation ...` to show where the warning was created)
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:71 [Extension Host] [vscode-icons] v11.6.0 activated!
+workbench.desktop.main.js:1689 Overwriting grammar scope name to file mapping for scope source.css.
+Old grammar file: file:///c%3A/Users/retdk/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/extensions/css/syntaxes/css.tmLanguage.json.
+New grammar file: file:///c%3A/Users/retdk/.vscode/extensions/csstools.postcss-1.0.9/syntaxes/source.css.tmLanguage.json
+register @ workbench.desktop.main.js:1689
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:71 [Extension Host] rejected promise not handled within 1 second: Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:71 [Extension Host] stack trace: Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.	at handleResponse (c:\Users\retdk\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.4836\out\prod\extension-prod.js:153891:48)	at processMessageQueue (c:\Users\retdk\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.4836\out\prod\extension-prod.js:153718:17)	at Immediate.<anonymous> (c:\Users\retdk\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.4836\out\prod\extension-prod.js:153702:13)	at processImmediate (internal/timers.js:461:21)
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:1992 [[object Object]]A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+$onExtensionRuntimeError @ workbench.desktop.main.js:1992
+workbench.desktop.main.js:1992 Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+	at handleResponse (c:\Users\retdk\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.4836\out\prod\extension-prod.js:153891:48)
+	at processMessageQueue (c:\Users\retdk\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.4836\out\prod\extension-prod.js:153718:17)
+	at Immediate.<anonymous> (c:\Users\retdk\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.4836\out\prod\extension-prod.js:153702:13)
+	at processImmediate (internal/timers.js:461:21)
+$onExtensionRuntimeError @ workbench.desktop.main.js:1992
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:602   ERR An unknown error occurred. Please consult the log for more details.
+workbench.desktop.main.js:71 [Extension Host] Serving "d:\CODING\projects\web_practices\calculator\" at http://127.0.0.1:5500
+workbench.desktop.main.js:71 [Extension Host] Ready for changes
+workbench.desktop.main.js:2877 Extension Host
+workbench.desktop.main.js:2877 GET /favicon.ico 404 5.078 ms - 150
+workbench.desktop.main.js:71 [Extension Host] CSS change detected d:\CODING\projects\web_practices\calculator\style.css
+workbench.desktop.main.js:71 [Extension Host] CSS change detected d:\CODING\projects\web_practices\calculator\style.css
+workbench.desktop.main.js:71 [Extension Host] CSS change detected d:\CODING\projects\web_practices\calculator\style.css
+workbench.desktop.main.js:71 [Extension Host] CSS change detected d:\CODING\projects\web_practices\calculator\style.css
+workbench.desktop.main.js:602  WARN Settings pattern "keyboard.*" doesn't match any settings
+workbench.desktop.main.js:602  WARN Settings pattern "keyboard.*" doesn't match any settings
+workbench.desktop.main.js:71 [Extension Host] No editors associated with document: c:\Users\retdk\AppData\Roaming\Code\User\settings.json
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:71 [Extension Host] No editors associated with document: c:\Users\retdk\AppData\Roaming\Code\User\settings.json
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:71 [Extension Host] No editors associated with document: c:\Users\retdk\AppData\Roaming\Code\User\settings.json
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:71 [Extension Host] No editors associated with document: c:\Users\retdk\AppData\Roaming\Code\User\settings.json
+v @ workbench.desktop.main.js:71
+workbench.desktop.main.js:71 [Extension Host] No editors associated with document: c:\Users\retdk\AppData\Roaming\Code\User\settings.json
+v @ workbench.desktop.main.js:71
+DevTools failed to load source map: Could not load content for https://ticino.blob.core.windows.net/sourcemaps/83bd43bc519d15e50c4272c6cf5c1479df196a4d/core/vs/workbench/workbench.desktop.main.js.map: Load canceled due to load timeout
