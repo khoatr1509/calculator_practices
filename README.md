@@ -1,2 +1,2 @@
 # calculator_practices
-Practices on frontend development
+Practices on CSS styling to build a simple Calculator.
